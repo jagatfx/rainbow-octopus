@@ -39,3 +39,7 @@ sysinfo.txt
 *.unitypackage
 Watson.meta
 RainbowOctopus/Assets/Watson
+
+# Mac
+.DS_Store
+
